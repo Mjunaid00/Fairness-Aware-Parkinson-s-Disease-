@@ -1,0 +1,9 @@
+Metric,Before Mitigation,After Mitigation,p-value
+SPD (Race),-0.4512,-0.0058,0.017
+SPD (Age),-0.29,-0.26,0.043
+SPD (Gender),-0.03,-0.18,0.051
+EOD (Race),-0.2981,-0.017,0.024
+EOD (Age),-0.19,-0.35,0.031
+EOD (Gender),0.06,-0.12,0.045
+Accuracy (DT),82.12,74.56,0.038
+Accuracy (RF),84.85,73.52,0.041
